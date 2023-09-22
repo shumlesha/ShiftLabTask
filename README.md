@@ -23,7 +23,7 @@
    ./gradlew bootRun
    ```
 
-## Инструкция по взаимодействую с приложением и API
+## Инструкция по взаимодействию с приложением и API
 **API-эндпоинты:**
 - ***POST*** /api/v1/intervals/merge?kind=
 - ***GET*** /api/v1/intervals/min?kind=
